@@ -3,7 +3,6 @@ Final Project Assignment - This repository contains the complete final project c
 ```java
 public class NumberPattern {
     public static void main(String[] args) {
-
         int n = 5;
 
         for (int i = 1; i <= n; i++) {
